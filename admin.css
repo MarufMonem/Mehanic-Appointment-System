@@ -1,0 +1,44 @@
+body{
+	background-color: #1e1f21;
+	color: azure;
+	text-align: center;
+}
+h1{
+	font-size: 3.5vw;
+	padding-bottom: 0px;
+	line-height:0;
+	font-family: Verdana;
+    color: antiquewhite;
+}
+h3{
+	font-size: 16px;
+	letter-spacing: 4px;
+	font-family: Helvetica;
+}
+
+.tableinfo{
+padding: auto;
+/*	//width: 70%*/
+
+}
+th{
+	padding: 10px;
+	font-size: 18px;
+}
+/*th{
+	border: 1px dotted grey;
+}*/
+
+td{
+	 border-bottom: 1px solid #ddd;
+/*    border-right: 1.5px dotted #ddd;*/
+    padding: 8px;
+}
+
+table{
+    margin:auto;
+}
+a{
+    color: red;
+    font-size: 20px;
+}
